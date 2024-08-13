@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 28 0  L 28 28  L 0 28  Z " fill-rule="evenodd" fill="black" id="path712" />
-    <clipPath id="clip713">
-      <use xlink:href="#path712" />
+    <path d="M 0 0  L 28 0  L 28 28  L 0 28  Z " fill-rule="evenodd" fill="black" id="path25" />
+    <clipPath id="clip26">
+      <use xlink:href="#path25" />
     </clipPath>
     <g clip-path="url(#a)">
       <path fill="#8697FF" d="M28 0H0v28h28V0Z" />
@@ -33,12 +33,12 @@
         <path fill="#fff" d="M0 0h28v28H0z" />
       </clipPath>
     </defs>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter714">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter27">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
   </defs>
   <g transform="matrix(1 0 0 1 -27 -151 )">
-    <g transform="matrix(1 0 0 1 27 151 )" clip-path="url(#clip713)" filter="url(#filter714)">
+    <g transform="matrix(1 0 0 1 27 151 )" clip-path="url(#clip26)" filter="url(#filter27)">
       <g clip-path="url(#a)">
         <path fill="#8697FF" d="M28 0H0v28h28V0Z" />
         <path fill="url(#b)" d="M22.54 15.078c.677-1.514-2.673-5.744-5.874-7.506-2.017-1.365-4.12-1.178-4.545-.579-.935 1.316 3.094 2.43 5.788 3.731-.58.252-1.125.703-1.446 1.28-1.004-1.096-3.209-2.04-5.796-1.28-1.743.513-3.191 1.721-3.751 3.546a1.097 1.097 0 1 0-.445 2.1c.112 0 .463-.075.463-.075l5.612.041c-2.244 3.56-4.018 4.081-4.018 4.698s1.697.45 2.335.22c3.05-1.1 6.327-4.531 6.89-5.519 2.36.295 4.345.33 4.786-.657Z" />

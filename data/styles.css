@@ -23,6 +23,7 @@
   font-weight:650;
   font-style:normal;
   font-size:18px;
+  color:#FFFFFF;
 }
 .primary_button {
   font-family:"Poppins-SemiBold", "Poppins SemiBold", "Poppins", sans-serif;
@@ -80,6 +81,10 @@
   text-align:left;
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
   color:#000000;
   text-align:left;
 }
